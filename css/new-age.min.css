@@ -75,3 +75,12 @@ h2.quemSomosTitulo {
     color: #fdcc52;
     text-align: center;
 }
+
+section.contact ul.list-social li.social-instagram a {
+    background:  linear-gradient(to right, #f97d32 , #ee2a7b, #002aff);
+  }
+  
+  section.contact ul.list-social li.social-instagram a:hover {
+    background: linear-gradient(to right,#f97d32 , #ee2a7b,#002aff);
+  }
+
